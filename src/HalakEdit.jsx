@@ -107,6 +107,7 @@ const HalakEdit = () => {
               }
             }}
           />
+
         </div>
         <button type="submit" className="btn btn-primary">Mentés</button>
       </form>
